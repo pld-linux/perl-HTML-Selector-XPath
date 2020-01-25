@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	HTML
 %define	pnam	Selector-XPath
 Summary:	HTML::Selector::XPath - CSS Selector to XPath compiler
