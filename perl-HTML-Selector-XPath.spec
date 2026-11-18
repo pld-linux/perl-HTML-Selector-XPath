@@ -7,13 +7,13 @@
 Summary:	HTML::Selector::XPath - CSS Selector to XPath compiler
 Summary(pl.UTF-8):	HTML::Selector::XPath - kompilator selektorów CSS do postaci języka XPath
 Name:		perl-HTML-Selector-XPath
-Version:	0.18
+Version:	0.28
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	bb46fc14bb6ea3169a6176db00cc68f6
+Source0:	https://www.cpan.org/authors/id/C/CO/CORION/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	eff607b0aad279bf89e9cbbbb4e0ab2e
 URL:		http://search.cpan.org/dist/HTML-Selector-XPath/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
